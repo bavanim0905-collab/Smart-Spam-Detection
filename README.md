@@ -1,2 +1,2 @@
-# Smart-Spam-Detection
-Developed a Smart Spam Detection System that uses machine learning to identify and classify spam messages, helping users detect unwanted and potentially harmful messages efficiently.
+Developed a Smart Spam Detection System using **Python, Machine Learning, NLP, Scikit-learn, Pandas, and Flask** to classify messages as spam or legitimate and improve unwanted-message detection.
+
